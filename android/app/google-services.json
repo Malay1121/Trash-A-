@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136579560732",
+    "project_id": "kachra-f0f6e",
+    "storage_bucket": "kachra-f0f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136579560732:android:81b3e6b3c0653a004db6d9",
+        "android_client_info": {
+          "package_name": "com.example.kachra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136579560732-gucs4rah7342frb4p1gup8bncj6jfka3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZsT0F6VQWDUPU98QNz5vJUFPMonQLzg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136579560732-gucs4rah7342frb4p1gup8bncj6jfka3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
